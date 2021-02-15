@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a_single/a_single.iml" filepath="$PROJECT_DIR$/a_single/a_single.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b_table_per_class/b_table_per_class.iml" filepath="$PROJECT_DIR$/b_table_per_class/b_table_per_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c_joined/c_joined.iml" filepath="$PROJECT_DIR$/c_joined/c_joined.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa_inheritance_sql.iml" filepath="$PROJECT_DIR$/jpa_inheritance_sql.iml" />
+    </modules>
+  </component>
+</project>
