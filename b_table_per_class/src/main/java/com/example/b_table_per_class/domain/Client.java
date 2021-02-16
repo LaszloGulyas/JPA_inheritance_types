@@ -9,6 +9,7 @@ import javax.persistence.*;
 public class Client {
 
     @Id
+    // !!! Identity generationType is not allowed here, because it could generate duplicated IDs for different tables
     @GeneratedValue(strategy = GenerationType.TABLE)
     @Column(name = "client_id")
     private Long clientId;
